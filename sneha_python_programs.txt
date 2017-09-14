@@ -1,0 +1,38 @@
+Desciptions:-
+
+sneha_python_programs
+
+important programs-
+
+1-snakesandladders.py
+2-diceprogram.py
+3-gmailmsgtome.py
+4-rockpaperscissor.py
+
+snakesandladders-
+*snake and ladder position in the game 
+*change the positions according to snakes and ladders
+*when ladder comes go up and when snake comes go down
+*roll the dice to move ahead in the game
+*repeat it until you reach the last position to win 
+
+dice program-
+*rolling the dice
+*setting the range
+*getting random numbers
+
+gmail program-
+*write an email
+*write the recievers authentication
+*run the program to get the output
+
+rockpaperandscissor-
+*set the inputs
+*give positions
+*computer will choose random input
+*user gets to choose from the input
+*tabulation
+
+** THE ** END **
+
+
